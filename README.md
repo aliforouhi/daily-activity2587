@@ -1,4 +1,4 @@
-# daily_update.py
+# daily_update.p
 import math
 import random
 
